@@ -1,0 +1,6 @@
+--- |
+  ---
+  consumer_key: yourconsumerkeyhere
+  consumer_secret: yourconsumersecrethere
+  oauth_token: youroauthtokenhere
+  oauth_token_secret: youroauthtokensecrethere
